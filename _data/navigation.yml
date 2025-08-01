@@ -4,11 +4,5 @@ main:
     url: /
   - title: "Plataformas CTF"
     url: /platforms/
-  - title: "Categorías"
-    url: /categories/
-  # - title: "Tags"        # Comentar esta línea
-  #   url: /tags/          # Comentar esta línea
-  - title: "Sobre mí"
-    url: /about/
   - title: "Buscador"
     url: /buscador/
