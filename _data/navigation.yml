@@ -2,12 +2,12 @@
 main:
   - title: "Inicio"
     url: /
-  - title: "Plataformas CTF"  # Nueva entrada
+  - title: "Plataformas CTF"
     url: /platforms/
   - title: "Categorías"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
+  # - title: "Tags"        # Comentar esta línea
+  #   url: /tags/          # Comentar esta línea
   - title: "Sobre mí"
     url: /about/
   - title: "Buscador"

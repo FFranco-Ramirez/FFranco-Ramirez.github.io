@@ -1,20 +1,20 @@
+
 ---
 layout: single
-title: Europa - HackTheBox
-excerpt: "Descripción del writeup..."
+title: "Europa - HackTheBox"
+excerpt: "Writeup de la máquina Europa de HackTheBox"
 date: 2020-01-31
 classes: wide
 header:
   teaser: /assets/images/htb-writeup-europa/europa_logo.png
 categories:
-  - hackthebox    # Categoría para la plataforma
-tags:
-  - linux
-  - web
-  - sqli
-  - rce
+  - hackthebox
+# tags:              # Eliminar esta sección completa
+#   - linux          # Ya no usar tags
+#   - web
+#   - sqli
+#   - rce
 ---
-
 <p align="center">
 <img src="/assets/images/htb-writeup-europa/europa_logo.png">
 </p>
