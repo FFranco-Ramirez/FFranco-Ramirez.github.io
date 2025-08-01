@@ -1,4 +1,3 @@
-
 ---
 title: "Plataformas CTF"
 layout: single
