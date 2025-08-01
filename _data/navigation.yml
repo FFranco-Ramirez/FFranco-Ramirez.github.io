@@ -1,15 +1,14 @@
+# Agrega esto a tu _data/navigation.yml existente
 main:
-  - title: "Home"
+  - title: "Inicio"
     url: /
-  - title: "Artículos"
-    url: /year-archive/
+  - title: "Plataformas CTF"  # Nueva entrada
+    url: /platforms/
   - title: "Categorías"
     url: /categories/
-  - title: "Etiquetas"
+  - title: "Tags"
     url: /tags/
-  - title: "Vídeos"
-    url: /videos/
+  - title: "Sobre mí"
+    url: /about/
   - title: "Buscador"
     url: /buscador/
-  - title: "Contacto"
-    url: /about/
